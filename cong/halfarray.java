@@ -15,11 +15,10 @@ public class halfarray {
             a[i] = sc.nextInt();
         }
 
-        for (int i = 0; i < a.length; i++) {
+        for (int i = 0; i < b.length; i++) {
             b[i] = sc.nextInt();
         }
 
-        System.out.println(a);
-        System.out.println(b);
+        
     }
 }
